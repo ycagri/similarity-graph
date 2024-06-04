@@ -1,4 +1,4 @@
 openai
 python-dotenv
-urllib3
+requests
 pydantic
