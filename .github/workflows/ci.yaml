@@ -1,0 +1,41 @@
+name: Continuous Integration Backend
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          clean: false
+      - uses: pre-commit/action@v3.0.1
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          clean: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+          cache: 'pip'
+          cache-dependency-path: requirements.txt
+      - name: Create Dotenv
+        run: |
+            echo "
+            OPENAI_API_KEY=$OPENAI_API_KEY
+            GRAPH_COMMONS_EMAIL=$GRAPH_COMMONS_EMAIL
+            GRAPH_COMMONS_PASSWORD=$GRAPH_COMMONS_PASSWORD
+            " > .env
+          env:
+            OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+            GRAPH_COMMONS_EMAIL: ${{ secrets.GRAPH_COMMONS_EMAIL }}
+            GRAPH_COMMONS_PASSWORD: ${{ secrets.GRAPH_COMMONS_PASSWORD }}
+      - run: python3 -m unittest discover test/
+      - run: rm .env

@@ -1,0 +1,541 @@
+{
+  "Battle of Marathon": [
+    "Battle of Thermopylae",
+    "Battle of Salamis",
+    "Battle of Plataea",
+    "Battle of Mycale",
+    "Battle of Artemisium"
+  ],
+  "Battle of Thermopylae": [
+    "Battle of Marathon",
+    "Battle of Plataea",
+    "Battle of Salamis",
+    "Battle of Gaugamela",
+    "Battle of Cannae"
+  ],
+  "Battle of Cannae": [
+    "Battle of Alesia",
+    "Battle of Gaugamela",
+    "Battle of Adrianople",
+    "Battle of Marignano",
+    "Battle of Leipzig"
+  ],
+  "Battle of Gaugamela": [
+    "Battle of Issus",
+    "Battle of Arbela",
+    "Battle of Hydaspes",
+    "Battle of Megalopolis",
+    "Battle of Ipsus"
+  ],
+  "Battle of Zama": [
+    "Battle of Alesia",
+    "Battle of Cannae",
+    "Battle of Gaugamela",
+    "Battle of Chalons",
+    "Battle of Teutoburg Forest"
+  ],
+  "Battle of Alesia": [
+    "Battle of Cannae",
+    "Battle of Gaugamela",
+    "Battle of Tours",
+    "Battle of Teutoburg Forest",
+    "Battle of Stamford Bridge"
+  ],
+  "Battle of Teutoburg Forest": [
+    "Battle of Carrhae  ",
+    "Battle of Cannae  ",
+    "Battle of Adrianople  ",
+    "Battle of Teutoburg Forest  ",
+    "Battle of Manzikert"
+  ],
+  "Battle of Adrianople": [
+    "Battle of Cannae",
+    "Battle of Yarmouk",
+    "Battle of Leuctra",
+    "Battle of Chancellorsville",
+    "Battle of Gaugamela"
+  ],
+  "Battle of Tours": [
+    "Battle of Yarmouk",
+    "Battle of Hastings",
+    "Battle of Lepanto",
+    "Battle of Vienna",
+    "Battle of Antietam"
+  ],
+  "Battle of Hastings": [
+    "Battle of Agincourt",
+    "Battle of Crecy",
+    "Battle of Bosworth Field",
+    "Battle of Marignano",
+    "Battle of Tours"
+  ],
+  "Battle of Agincourt": [
+    "Battle of Crecy",
+    "Battle of Poitiers",
+    "Battle of Patay",
+    "Battle of Verneuil",
+    "Battle of Grunwald"
+  ],
+  "Battle of Lepanto": [
+    "Battle of Navarino",
+    "Battle of Actium",
+    "Battle of Salamis",
+    "Battle of Trafalgar",
+    "Battle of Aegospotami"
+  ],
+  "Battle of Vienna": [
+    "Battle of Lepanto",
+    "Battle of Stalingrad",
+    "Battle of Tours",
+    "Battle of Thermopylae",
+    "Battle of Austerlitz"
+  ],
+  "Battle of Blenheim": [
+    "Battle of Ramillies",
+    "Battle of Oudenarde",
+    "Battle of Malplaquet",
+    "Battle of Elixheim",
+    "Battle of Turin"
+  ],
+  "Battle of Saratoga": [
+    "Battle of Gettysburg",
+    "Battle of Bunker Hill",
+    "Battle of Yorktown",
+    "Battle of Antietam",
+    "Battle of Guilford Court House"
+  ],
+  "Battle of Yorktown": [
+    "Battle of Gettysburg",
+    "Battle of Saratoga",
+    "Battle of Stalingrad",
+    "Battle of Waterloo",
+    "Battle of Marathon"
+  ],
+  "Battle of Trafalgar": [
+    "Battle of Austerlitz",
+    "Battle of Gettysburg",
+    "Battle of Midway",
+    "Battle of Stalingrad",
+    "Battle of Yorktown"
+  ],
+  "Battle of Waterloo": [
+    "Battle of Gettysburg",
+    "Battle of Stalingrad",
+    "Battle of Trafalgar",
+    "Battle of Austerlitz",
+    "Battle of Antietam"
+  ],
+  "Battle of Gettysburg": [
+    "Battle of Antietam",
+    "Battle of Shiloh",
+    "Battle of Chancellorsville",
+    "Battle of Spotsylvania Court House",
+    "Battle of Vicksburg"
+  ],
+  "Battle of Vicksburg": [
+    "Battle of Gettysburg",
+    "Battle of Antietam",
+    "Battle of Chickamauga",
+    "Battle of Spotsylvania Court House",
+    "Battle of Atlanta"
+  ],
+  "Battle of the Marne": [
+    "Battle of Verdun",
+    "Battle of the Somme",
+    "First Battle of Ypres",
+    "Second Battle of Ypres",
+    "Second Battle of the Marne"
+  ],
+  "Battle of Verdun": [
+    "Battle of Stalingrad",
+    "Battle of the Somme",
+    "Battle of Passchendaele",
+    "Battle of Kursk",
+    "Battle of the Bulge"
+  ],
+  "Battle of Gallipoli": [
+    "Battle of the Somme",
+    "Battle of Passchendaele",
+    "Battle of Verdun",
+    "Battle of the Marne",
+    "Battle of the Bulge"
+  ],
+  "Battle of the Somme": [
+    "Battle of Passchendaele",
+    "Battle of Verdun",
+    "Battle of Gallipoli",
+    "Battle of the Marne",
+    "Battle of Stalingrad"
+  ],
+  "Battle of Stalingrad": [
+    "Battle of Moscow",
+    "Battle of Leningrad",
+    "Battle of Berlin",
+    "Battle of Kursk",
+    "Battle of Kharkov"
+  ],
+  "Battle of El Alamein": [
+    "Battle of Stalingrad",
+    "Battle of Kursk",
+    "Battle of Midway",
+    "Battle of the Bulge",
+    "Battle of the Coral Sea"
+  ],
+  "Battle of Midway": [
+    "Battle of the Coral Sea",
+    "Battle of Guadalcanal",
+    "Battle of Leyte Gulf",
+    "Battle of Okinawa",
+    "Battle of the Coral Sea"
+  ],
+  "Battle of Guadalcanal": [
+    "Battle of Iwo Jima",
+    "Battle of Okinawa",
+    "Battle of Tarawa",
+    "Battle of Peleliu",
+    "Battle of Saipan"
+  ],
+  "Battle of Kursk": [
+    "Battle of Stalingrad",
+    "Battle of Verdun",
+    "Battle of the Bulge",
+    "Battle of Midway",
+    "Battle of the Somme"
+  ],
+  "Battle of Iwo Jima": [
+    "Battle of Okinawa",
+    "Battle of Tarawa",
+    "Battle of Peleliu",
+    "Battle of Guadalcanal",
+    "Battle of Saipan"
+  ],
+  "Battle of Normandy": [
+    "Battle of Stalingrad",
+    "Battle of the Bulge",
+    "Battle of Kursk",
+    "Battle of Midway",
+    "Battle of Berlin"
+  ],
+  "Battle of Okinawa": [
+    "Battle of Guadalcanal",
+    "Battle of Iwo Jima",
+    "Battle of Saipan",
+    "Battle of Tarawa",
+    "Battle of Peleliu"
+  ],
+  "Battle of Dien Bien Phu": [
+    "Battle of Stalingrad",
+    "Battle of Kursk",
+    "Battle of Hue",
+    "Battle of Ia Drang",
+    "Battle of Okinawa"
+  ],
+  "Battle of Chosin Reservoir": [
+    "Battle of the Bulge",
+    "Battle of Khe Sanh",
+    "Battle of Dien Bien Phu",
+    "Battle of Iwo Jima",
+    "Battle of Guadalcanal"
+  ],
+  "Battle of Inchon": [
+    "Battle of Normandy",
+    "Battle of Stalingrad",
+    "Battle of Gallipoli",
+    "Battle of Kursk",
+    "Battle of El Alamein"
+  ],
+  "Battle of the Bulge": [
+    "Battle of Kursk",
+    "Battle of Stalingrad",
+    "Battle of the Somme",
+    "Battle of Okinawa",
+    "Battle of Iwo Jima"
+  ],
+  "Battle of Khe Sanh": [
+    "Battle of Dien Bien Phu",
+    "Battle of Hue",
+    "Siege of Bastogne",
+    "Battle of Stalingrad",
+    "Battle of Fallujah"
+  ],
+  "Battle of Hue": [
+    "Battle of Fallujah",
+    "Battle of Khe Sanh",
+    "Battle of Stalingrad",
+    "Battle of Okinawa",
+    "Battle of Iwo Jima"
+  ],
+  "Battle of Mogadishu": [
+    "Battle of Tora Bora",
+    "Battle of Fallujah",
+    "Battle of Haditha",
+    "Battle of Ramadi",
+    "Battle of Tikrit"
+  ],
+  "Battle of Khafji": [
+    "Battle of Tineh",
+    "Battle of Ad Dimnah",
+    "Battle of Al Watah",
+    "Battle of Jirn ",
+    "Battle of Wadi Saluki"
+  ],
+  "Battle of Grozny": [
+    "Battle of Aleppo",
+    "Battle of Fallujah",
+    "Battle of Ramadi",
+    "Battle of Mosul",
+    "Battle of Basra"
+  ],
+  "Battle of Borodino": [
+    "Battle of Austerlitz",
+    "Battle of Gettysburg",
+    "Battle of Stalingrad",
+    "Battle of Waterloo",
+    "Battle of Dien Bien Phu"
+  ],
+  "Battle of Leipzig": [
+    "Battle of Waterloo",
+    "Battle of Gettysburg",
+    "Battle of Stalingrad",
+    "Battle of Kursk",
+    "Battle of Saratoga"
+  ],
+  "Battle of Alma": [
+    "Battle of Inkerman",
+    "Battle of Balaklava",
+    "Battle of Balaclava",
+    "Battle of Tchernaya",
+    "Battle of the Great Redan"
+  ],
+  "Battle of Balaclava": [
+    "Battle of Inkerman",
+    "Battle of Balaklava",
+    "Siege of Sevastopol",
+    "Battle of Alma",
+    "Battle of Chernaya"
+  ],
+  "Battle of Port Arthur": [
+    "Battle of Tsushima",
+    "Battle of Mukden",
+    "Battle of Nanshan",
+    "Battle of Liaoyang",
+    "Battle of Yalu River"
+  ],
+  "Battle of Jutland": [
+    "Battle of Trafalgar",
+    "Battle of Midway",
+    "Battle of Leyte Gulf",
+    "Battle of Guadalcanal",
+    "Battle of the Coral Sea"
+  ],
+  "Battle of the Falkland Islands": [
+    "Battle of Jutland",
+    "Battle of Tsushima",
+    "Battle of Santo Domingo",
+    "Battle of Leyte Gulf",
+    "Battle of Midway"
+  ],
+  "Battle of Little Bighorn": [
+    "Battle of the Alamo",
+    "Battle of the Greasy Grass",
+    "Battle of the Rosebud",
+    "Battle of Killdeer Mountain",
+    "Battle of Slim Buttes"
+  ],
+  "Battle of Wounded Knee": [
+    "Battle of Little Bighorn",
+    "Battle of Sand Creek",
+    "Battle of Washita River",
+    "Battle of the Rosebud",
+    "Battle of Big Hole"
+  ],
+  "Battle of Quebec": [
+    "Battle of Bunker Hill",
+    "Battle of Saratoga",
+    "Battle of Yorktown",
+    "Battle of Gettysburg",
+    "Battle of the Alamo"
+  ],
+  "Battle of Bunker Hill": [
+    "Battle of Breed's Hill",
+    "Battle of Long Island",
+    "Battle of Saratoga",
+    "Battle of Guilford Courthouse",
+    "Battle of Camden"
+  ],
+  "Battle of New Orleans": [
+    "Battle of Yorktown",
+    "Battle of Gettysburg",
+    "Battle of Antietam",
+    "Battle of Bull Run",
+    "Battle of Vicksburg"
+  ],
+  "Battle of Antietam": [
+    "Battle of Gettysburg",
+    "Battle of the Wilderness",
+    "Battle of Chancellorsville",
+    "Battle of Fredericksburg",
+    "Battle of Spotsylvania Court House"
+  ],
+  "Battle of Fredericksburg": [
+    "Battle of Chancellorsville",
+    "Battle of Antietam",
+    "Battle of Spotsylvania Court House",
+    "Battle of Cold Harbor",
+    "Battle of Gettysburg"
+  ],
+  "Battle of Shiloh": [
+    "Battle of Antietam",
+    "Battle of Gettysburg",
+    "Battle of Chickamauga",
+    "Battle of Spotsylvania Court House",
+    "Battle of Stones River"
+  ],
+  "Battle of the Alamo": [
+    "Battle of Bunker Hill ",
+    "Battle of Little Bighorn ",
+    "Battle of Gettysburg ",
+    "Battle of Thermopylae ",
+    "Battle of Stalingrad"
+  ],
+  "Battle of San Jacinto": [
+    "Battle of Goliad",
+    "Battle of Gonzales",
+    "Battle of the Alamo",
+    "Battle of the Brazos",
+    "Battle of Lipantitl\u00e1n"
+  ],
+  "Battle of Thames": [
+    "Battle of New Orleans",
+    "Battle of Lundy's Lane",
+    "Battle of Chippawa",
+    "Battle of Horseshoe Bend",
+    "Battle of Lake Erie"
+  ],
+  "Battle of Fallen Timbers": [
+    "Battle of Horseshoe Bend",
+    "Battle of Tippecanoe",
+    "Battle of Frenchtown",
+    "Battle of Thames",
+    "Battle of Chippewa"
+  ],
+  "Battle of Trenton": [
+    "Battle of Princeton",
+    "Battle of Saratoga",
+    "Battle of Guilford Court House",
+    "Battle of Monmouth",
+    "Battle of Cowpens"
+  ],
+  "Battle of Princeton": [
+    "Battle of Trenton",
+    "Battle of Saratoga",
+    "Battle of Monmouth",
+    "Battle of Guilford Court House",
+    "Battle of Yorktown"
+  ],
+  "Battle of Bataan": [
+    "Battle of Midway",
+    "Battle of Okinawa",
+    "Battle of Tarawa",
+    "Battle of Guadalcanal",
+    "Battle of Leyte Gulf"
+  ],
+  "Battle of Corregidor": [
+    "Battle of Bataan",
+    "Battle of Wake Island",
+    "Battle of Midway",
+    "Battle of Guadalcanal",
+    "Battle of Iwo Jima"
+  ],
+  "Battle of Leyte Gulf": [
+    "Battle of Midway",
+    "Battle of the Coral Sea",
+    "Battle of Okinawa",
+    "Battle of Guadalcanal",
+    "Battle of the Philippine Sea"
+  ],
+  "Battle of the Atlantic": [
+    "Battle of the Mediterranean",
+    "Battle of the Pacific",
+    "Battle of the Coral Sea",
+    "Battle of the Philippine Sea",
+    "Battle of the Barents Sea"
+  ],
+  "Battle of the Coral Sea": [
+    "Battle of Midway",
+    "Battle of Guadalcanal",
+    "Battle of Leyte Gulf",
+    "Battle of Okinawa",
+    "Battle of the Philippine Sea"
+  ],
+  "Battle of Ia Drang": [
+    "Battle of Wanat",
+    "Battle of Khe Sanh",
+    "Battle of Hue City",
+    "Battle of Kontum",
+    "Battle of Dak To"
+  ],
+  "Battle of Hamburger Hill": [
+    "Battle of Bunker Hill",
+    "Battle of Heartbreak Ridge",
+    "Battle of Pork Chop Hill",
+    "Battle of Khe Sanh",
+    "Battle of Inchon"
+  ],
+  "Battle of An Loc": [
+    "Battle of Coral-Balmoral  ",
+    "Battle of Song Be  ",
+    "Battle of Xuan Loc  ",
+    "Battle of Khe Sanh  ",
+    "Battle of Kontum"
+  ],
+  "Battle of Lima Site 85": [
+    "Battle of the Imjin River",
+    "Battle of Khe Sanh",
+    "Battle of Lang Vei",
+    "Battle of Dak To",
+    "Battle of Hamburger Hill"
+  ],
+  "Battle of Mosul": [
+    "Battle of Stalingrad ",
+    "Battle of Kursk",
+    "Battle of Berlin ",
+    "Battle of Verdun",
+    "Battle of Okinawa"
+  ],
+  "Battle of Baghdad": [
+    "Battle of Tehran",
+    "Battle of Damascus",
+    "Battle of Kabul",
+    "Battle of Tripoli",
+    "Battle of Sana'a"
+  ],
+  "Battle of Fallujah": [
+    "Battle of Ramadi",
+    "Battle of Tikrit",
+    "Battle of Mosul",
+    "Battle of Tall Afar",
+    "Battle of Haditha"
+  ],
+  "Battle of Raqqa": [
+    "Battle of Mosul",
+    "Battle of Fallujah",
+    "Battle of Kobani",
+    "Battle of Ramadi",
+    "Battle of Tikrit"
+  ],
+  "Battle of Kobani": [
+    "Battle of Mosul",
+    "Battle of Raqqa",
+    "Battle of Fallujah",
+    "Battle of Aleppo",
+    "Battle of Tikrit"
+  ],
+  "Battle of Aleppo": [
+    "Battle of Mosul",
+    "Battle of Stalingrad",
+    "Battle of Homs",
+    "Battle of Fallujah",
+    "Battle of Grozny"
+  ]
+}
