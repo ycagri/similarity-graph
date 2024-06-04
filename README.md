@@ -1,6 +1,6 @@
 # Similarity Graph Creator
 
-This is a simple similarity graph creator using `OpenAi` and `GraphCommons` apis. Inspired by Yigitalp Ertem's blog[https://yalpertem.com/blog/2023/01/05/500-film-directors-in-a-graph-i-chatgpt/], I decided to create a more generic and automated version. In order to run the scripts, you have to get an `OpenAI` api key from [here](https://platform.openai.com/) and create an account using email and password on [GraphCommons](https://graphcommons.com/).
+This is a simple similarity graph creator using `OpenAi` and `GraphCommons` apis. Inspired by Yigitalp Ertem's [blog](https://yalpertem.com/blog/2023/01/05/500-film-directors-in-a-graph-i-chatgpt/), I decided to create a more generic and automated version. In order to run the scripts, you have to get an `OpenAI` api key from [here](https://platform.openai.com/) and create an account using email and password on [GraphCommons](https://graphcommons.com/).
 
 The way script works:
 1. Sends general prompt to OpenAi GPT such as `I want you to list me 100 historical battles all around the world. I just want the names line by line, no extra text, no number or bullet in the beginning.`.
