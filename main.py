@@ -37,6 +37,12 @@ def setup_parser() -> argparse.ArgumentParser:
         type=str,
         help="Path to the file contains questions which will be asked to OpenAI",
     )
+    parser.add_argument(
+        "--skip_graph",
+        type=bool,
+        action=argparse.BooleanOptionalAction,
+        help="Skips Graph Generation in Graph Commons and stores the results in a file",
+    )
 
     return parser
 
@@ -73,14 +79,18 @@ def main():
             data = json.load(f)
     else:
         data = get_openai_answers(options.name, options.question_file)
+
     graph_builder = GraphBuilder()
     graph_commons_connector = GraphCommonsConnector()
-    [graph_id, name] = graph_commons_connector.create_graph(
-        graph_builder.build(
-            name=f"{name} Similarity", description=description, data=data
-        )
+    graph_data = graph_builder.build(
+        name=f"{name} Similarity", description=description, data=data
     )
-    print(f"{name} created on graphcommons.com with id {graph_id}")
+
+    if options.skip_graph:
+        print(graph_data.model_dump(mode="json"))
+    else:
+        [graph_id, name] = graph_commons_connector.create_graph(graph_data)
+        print(f"{name} created on graphcommons.com with id {graph_id}")
 
 
 if __name__ == "__main__":
