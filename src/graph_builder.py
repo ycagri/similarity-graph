@@ -5,7 +5,16 @@ from src.graph import Node, NodeType, EdgeType, Edge, Graph
 
 
 class GraphBuilder:
-    colors = ["red", "blue", "green", "yellow", "cyan", "magenta", "purple", "pink"]
+    colors = [
+        "#FF5733",
+        "#338A57",
+        "#3357FF",
+        "#FF33A8",
+        "#57FFF3",
+        "#FFA933",
+        "#A8335F",
+        "#33AFD4",
+    ]
     node_map: dict[str, Node] = {}
     edges: list[Edge] = []
     node_types: list[NodeType] = []
