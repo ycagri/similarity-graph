@@ -1,0 +1,743 @@
+{
+    "Margaret Atwood": [
+      "Ursula K. Le Guin",
+      "Octavia E. Butler",
+      "Charlotte Perkins Gilman",
+      "Angela Carter",
+      "Doris Lessing"
+    ],
+    "Haruki Murakami": [
+      "Gabriel Garcia Marquez",
+      "Kazuo Ishiguro",
+      "Banana Yoshimoto",
+      "Jorge Luis Borges",
+      "David Mitchell"
+    ],
+    "Toni Morrison": [
+      "Alice Walker",
+      "Zora Neale Hurston",
+      "Maya Angelou",
+      "Chimamanda Ngozi Adichie",
+      "Octavia Butler"
+    ],
+    "Gabriel Garcia Marquez": [
+      "Isabel Allende",
+      "Julio Cortazar",
+      "Jorge Luis Borges",
+      "Mario Vargas Llosa",
+      "Laura Esquivel"
+    ],
+    "J.K. Rowling": [
+      "Roald Dahl",
+      "C.S. Lewis",
+      "Rick Riordan",
+      "Neil Gaiman",
+      "Philip Pullman"
+    ],
+    "Jane Austen": [
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Louisa May Alcott",
+      "George Eliot",
+      "Edith Wharton"
+    ],
+    "Leo Tolstoy": [
+      "Fyodor Dostoevsky",
+      "Virginia Woolf",
+      "Charles Dickens",
+      "Gabriel Garcia Marquez",
+      "Jane Austen"
+    ],
+    "George Orwell": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Margaret Atwood",
+      "Philip K. Dick",
+      "Kurt Vonnegut"
+    ],
+    "Virginia Woolf": [
+      "",
+      "James Joyce",
+      "Katherine Mansfield",
+      "E.M. Forster",
+      "D.H. Lawrence",
+      "F. Scott Fitzgerald"
+    ],
+    "Fyodor Dostoevsky": [
+      "Leo Tolstoy",
+      "Franz Kafka",
+      "Nikolai Gogol",
+      "Albert Camus",
+      "Hermann Hesse"
+    ],
+    "Ernest Hemingway": [
+      "F. Scott Fitzgerald",
+      "J.D. Salinger",
+      "John Steinbeck",
+      "Raymond Carver",
+      "Cormac McCarthy"
+    ],
+    "Albert Camus": [
+      "Fyodor Dostoevsky",
+      "Franz Kafka",
+      "Jean-Paul Sartre",
+      "Samuel Beckett",
+      "Hermann Hesse"
+    ],
+    "Chinua Achebe": [
+      "Chimamanda Ngozi Adichie",
+      "Ng\u0169g\u0129 wa Thiong'o",
+      "Wole Soyinka",
+      "Ben Okri",
+      "Amos Tutuola"
+    ],
+    "Kazuo Ishiguro": [
+      "Haruki Murakami",
+      "Jhumpa Lahiri",
+      "Margaret Atwood",
+      "Khaled Hosseini",
+      "Chimamanda Ngozi Adichie"
+    ],
+    "Stephen King": [
+      "1. Dean Koontz",
+      "2. Clive Barker",
+      "3. Peter Straub",
+      "4. Joe Hill",
+      "5. Anne Rice"
+    ],
+    "Agatha Christie": [
+      "1. Arthur Conan Doyle",
+      "2. Ruth Rendell",
+      "3. Dorothy L. Sayers",
+      "4. P.D. James",
+      "5. Ngaio Marsh"
+    ],
+    "Herman Melville": [
+      "Louis L'Amour",
+      "Joseph Conrad",
+      "Haruki Murakami",
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy"
+    ],
+    "Emily Bronte": [
+      "Charlotte Bronte",
+      "Jane Austen",
+      "Mary Shelley",
+      "George Eliot",
+      "Edgar Allan Poe"
+    ],
+    "Franz Kafka": [
+      "Haruki Murakami",
+      "Albert Camus",
+      "George Orwell",
+      "Italo Calvino",
+      "Fyodor Dostoevsky"
+    ],
+    "James Joyce": [
+      "Virginia Woolf ",
+      "William Faulkner ",
+      "Samuel Beckett ",
+      "Marcel Proust ",
+      "Thomas Pynchon"
+    ],
+    "J.R.R. Tolkien": [
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "Terry Brooks",
+      "Robert Jordan",
+      "Ursula K. Le Guin"
+    ],
+    "Edgar Allan Poe": [
+      "H.P. Lovecraft",
+      "Arthur Conan Doyle",
+      "Shirley Jackson",
+      "Mary Shelley",
+      "Robert Louis Stevenson"
+    ],
+    "Philip K. Dick": [
+      "Ray Bradbury",
+      "Ursula K. Le Guin",
+      "William Gibson",
+      "Stanis\u0142aw Lem",
+      "Isaac Asimov"
+    ],
+    "Donna Tartt": [
+      "Jeanette Winterson",
+      "Don DeLillo",
+      "Zadie Smith",
+      "Haruki Murakami",
+      "Jonathan Franzen"
+    ],
+    "Mark Twain": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Herman Melville",
+      "Emily Bronte",
+      "Robert Louis Stevenson"
+    ],
+    "Daphne du Maurier": [
+      "1. Shirley Jackson",
+      "",
+      "2. Sarah Waters",
+      "",
+      "3. Donna Tartt",
+      "",
+      "4. Patricia Highsmith",
+      "",
+      "5. Ruth Ware"
+    ],
+    "Yukio Mishima": [
+      "Haruki Murakami",
+      "Ryunosuke Akutagawa",
+      "Kenzaburo Oe",
+      "Kobo Abe",
+      "Natsume Soseki"
+    ],
+    "Zadie Smith": [
+      "Chimamanda Ngozi Adichie",
+      "Jhumpa Lahiri",
+      "Salman Rushdie",
+      "Jacqueline Woodson",
+      "Teju Cole"
+    ],
+    "Laura Esquivel": [
+      "Isabel Allende",
+      "Gabriel Garcia Marquez",
+      "Isabel Allende",
+      "Julia Alvarez",
+      "Sandra Cisneros"
+    ],
+    "Ken Follett": [
+      "John Grisham",
+      "Dan Brown",
+      "Jeffrey Archer",
+      "David Baldacci",
+      "Tom Clancy"
+    ],
+    "Naguib Mahfouz": [
+      "Albert Camus",
+      "Orhan Pamuk",
+      "Chinua Achebe",
+      "Isabel Allende",
+      "Gabriel Garcia Marquez"
+    ],
+    "Ian McEwan": [
+      "Kazuo Ishiguro",
+      "Michael Chabon",
+      "Julian Barnes",
+      "Zadie Smith",
+      "A.S. Byatt"
+    ],
+    "Michael Ondaatje": [
+      "Kazuo Ishiguro",
+      "Arundhati Roy",
+      "Salman Rushdie",
+      "Anne Michaels",
+      "Ishmael Beah"
+    ],
+    "Salman Rushdie": [
+      "Haruki Murakami",
+      "Arundhati Roy",
+      "Kazuo Ishiguro",
+      "Amitav Ghosh",
+      "Michael Ondaatje"
+    ],
+    "Arundhati Roy": [
+      "Chimamanda Ngozi Adichie",
+      "Jhumpa Lahiri",
+      "Kiran Desai",
+      "Nayantara Sahgal",
+      "Amitav Ghosh"
+    ],
+    "John Steinbeck": [
+      "Ernest Hemingway",
+      "William Faulkner",
+      "F.Scott Fitzgerald",
+      "Harper Lee",
+      "Toni Morrison"
+    ],
+    "Aldous Huxley": [
+      "George Orwell",
+      "Kurt Vonnegut",
+      "Philip K. Dick",
+      "Tom Robbins",
+      "Ray Bradbury"
+    ],
+    "Jorge Luis Borges": [
+      "Italo Calvino",
+      "Gabriel Garcia Marquez",
+      "Umberto Eco",
+      "Haruki Murakami",
+      "Julio Cortazar"
+    ],
+    "George R.R. Martin": [
+      "1. J.R.R. Tolkien",
+      "2. Patrick Rothfuss",
+      "3. Brandon Sanderson",
+      "4. Robert Jordan",
+      "5. Joe Abercrombie"
+    ],
+    "Khaled Hosseini": [
+      "1. Rupi Kaur",
+      "2. Chimamanda Ngozi Adichie",
+      "3. Jhumpa Lahiri",
+      "4. Mohsin Hamid",
+      "5. Orhan Pamuk"
+    ],
+    "Gabriel Garcia Lorca": [
+      "Isabel Allende",
+      "Jorge Luis Borges",
+      "Mario Vargas Llosa",
+      "Julio Cortazar",
+      "Pablo Neruda"
+    ],
+    "F. Scott Fitzgerald": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Truman Capote",
+      "Evelyn Waugh",
+      "J.D. Salinger"
+    ],
+    "Marguerite Duras": [
+      "Virginia Woolf ",
+      "Italo Calvino ",
+      "Alain Robbe-Grillet ",
+      "Jean Rhys ",
+      "Franz Kafka"
+    ],
+    "Marian Keyes": [
+      "Sophie Kinsella",
+      "Cecelia Ahern",
+      "Jojo Moyes",
+      "Liane Moriarty",
+      "Jennifer Weiner"
+    ],
+    "William Faulkner": [
+      "James Joyce ",
+      "Virginia Woolf ",
+      "Ernest Hemingway ",
+      "John Steinbeck ",
+      "Toni Morrison"
+    ],
+    "Tom Wolfe": [
+      "Don DeLillo ",
+      "Jay McInerney ",
+      "Bret Easton Ellis ",
+      "Jonathan Franzen ",
+      "Phillip Roth"
+    ],
+    "Paul Auster": [
+      "Haruki Murakami",
+      "Don DeLillo",
+      "Ian McEwan",
+      "Jonathan Franzen",
+      "David Mitchell"
+    ],
+    "Sylvia Plath": [
+      "Virginia Woolf",
+      "Emily Dickinson",
+      "Charlotte Perkins Gilman",
+      "Margaret Atwood",
+      "Anne Sexton"
+    ],
+    "Orhan Pamuk": [
+      "Milan Kundera",
+      "Haruki Murakami",
+      "Javier Mar\u00edas",
+      "Paul Auster",
+      "Julian Barnes"
+    ],
+    "Isabel Allende": [
+      "Gabriel Garcia Marquez",
+      "Laura Esquivel",
+      "Julia Alvarez",
+      "Sandra Cisneros",
+      "Chimamanda Ngozi Adichie"
+    ],
+    "Jose Saramago": [
+      "Isabel Allende",
+      "Jorge Luis Borges",
+      "Gabriel Garcia Marquez",
+      "Italo Calvino",
+      "Haruki Murakami"
+    ],
+    "Gillian Flynn": [
+      "Paula Hawkins",
+      "Tana French",
+      "Ruth Ware",
+      "Mary Kubica",
+      "B.A. Paris"
+    ],
+    "Don Delillo": [
+      "Haruki Murakami",
+      "Thomas Pynchon",
+      "J.G. Ballard",
+      "Paul Auster",
+      "David Foster Wallace"
+    ],
+    "Julian Barnes": [
+      "Kazuo Ishiguro",
+      "Ian McEwan",
+      "Margaret Atwood",
+      "Colm T\u00f3ib\u00edn",
+      "Salman Rushdie"
+    ],
+    "Henry James": [
+      "F. Scott Fitzgerald",
+      "Virginia Woolf",
+      "Edith Wharton",
+      "James Joyce",
+      "Joseph Conrad"
+    ],
+    "Han Kang": [
+      "Haruki Murakami",
+      "Jenny Erpenbeck",
+      "Yoko Tawada",
+      "Maggie O'Farrell",
+      "Kazuo Ishiguro"
+    ],
+    "Virginia DeBerry": [
+      "1. Donna Grant",
+      "2. Brenda Jackson",
+      "3. Kimberla Lawson Roby",
+      "4. Beverly Jenkins",
+      "5. Rochelle Alers"
+    ],
+    "Louise Erdrich": [
+      "1. Toni Morrison",
+      "2. Jhumpa Lahiri",
+      "3. Alice Walker",
+      "4. Sherman Alexie",
+      "5. Leslie Marmon Silko"
+    ],
+    "Yan Martel": [
+      "Yann Martel",
+      "Kazuo Ishiguro",
+      "Haruki Murakami",
+      "Jon Krakauer",
+      "David Mitchell"
+    ],
+    "Cormac McCarthy": [
+      "John Steinbeck",
+      "Don DeLillo",
+      "Flannery O'Connor",
+      "Larry McMurtry",
+      "William Faulkner"
+    ],
+    "Tamara McKinley": [
+      "Lucinda Riley",
+      "Sara Donati",
+      "Belinda Alexandra",
+      "Liane Moriarty",
+      "Kate Morton"
+    ],
+    "Jodi Picoult": [
+      "Nancy Thayer",
+      "Liane Moriarty",
+      "Kristin Hannah",
+      "Diane Chamberlain",
+      "Heather Gudenkauf"
+    ],
+    "Graham Greene": [
+      "Kazuo Ishiguro",
+      "John le Carr\u00e9",
+      "Ian McEwan",
+      "Gore Vidal",
+      "Patricia Highsmith"
+    ],
+    "W. Somerset Maugham": [
+      "1. F. Scott Fitzgerald",
+      "2. Graham Greene",
+      "3. John Steinbeck",
+      "4. Evelyn Waugh",
+      "5. E.M. Forster"
+    ],
+    "Rachel Cusk": [
+      "Ali Smith",
+      "Zadie Smith",
+      "Hilary Mantel",
+      "Eimear McBride",
+      "Sally Rooney"
+    ],
+    "Catherine McKenzie": [
+      "Liane Moriarty ",
+      "Christina Lauren ",
+      "Emily Giffin ",
+      "Tara Westover ",
+      "Jodi Picoult"
+    ],
+    "Ali Smith": [
+      "Zadie Smith",
+      "Sally Rooney",
+      "Rachel Cusk",
+      "Elena Ferrante",
+      "Jeanette Winterson"
+    ],
+    "Christos Tsiolkas": [
+      "Fiona McGregor",
+      "Charlotte Wood",
+      "Alice Pung",
+      "Peter Polites",
+      "A.S. Patri\u0107"
+    ],
+    "Bret Easton Ellis": [
+      "Chuck Palahniuk",
+      "Don DeLillo",
+      "Jay McInerney ",
+      "Douglas Coupland",
+      "Michel Houellebecq"
+    ],
+    "Anne Bronte": [
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Jane Austen",
+      "George Eliot",
+      "Louisa May Alcott"
+    ],
+    "Jennifer Egan": [
+      "Don DeLillo",
+      "Jonathan Franzen",
+      "Zadie Smith",
+      "Michael Chabon",
+      "David Foster Wallace"
+    ],
+    "Barbara Kingsolver": [
+      "Harper Lee",
+      "Arundhati Roy",
+      "Toni Morrison",
+      "Donna Tartt",
+      "Alice Walker"
+    ],
+    "Stieg Larsson": [
+      "Jo Nesb\u00f8",
+      "Camilla L\u00e4ckberg",
+      "Henning Mankell",
+      "Karin Fossum",
+      "Liza Marklund"
+    ],
+    "Colleen McCullough": [
+      "1. Diana Gabaldon",
+      "2. Ken Follett",
+      "3. Philippa Gregory",
+      "4. Tracy Chevalier",
+      "5. Sarah Dunant"
+    ],
+    "Lee Child": [
+      "Michael Connelly",
+      "David Baldacci",
+      "James Patterson",
+      "Harlan Coben",
+      "John Grisham"
+    ],
+    "Christopher Isherwood": [
+      "Virginia Woolf",
+      "Aldous Huxley",
+      "E.M. Forster",
+      "James Baldwin",
+      "Edmund White"
+    ],
+    "J.D. Salinger": [
+      "F. Scott Fitzgerald",
+      "Harper Lee",
+      "Kurt Vonnegut",
+      "Donna Tartt",
+      "Philip Roth"
+    ],
+    "John le Carre": [
+      "Graham Greene",
+      "Alan Furst",
+      "Charles Cumming",
+      "David Ignatius",
+      "Mick Herron"
+    ],
+    "Dave Eggers": [
+      "Kazuo Ishiguro",
+      "Zadie Smith",
+      "Jonathan Safran Foer",
+      "Jonathan Franzen",
+      "Jennifer Egan"
+    ],
+    "Michael Chabon": [
+      "Don DeLillo",
+      "Jonathan Franzen",
+      "Jennifer Egan",
+      "Jonathan Lethem",
+      "Dave Eggers"
+    ],
+    "John Irving": [
+      "Margaret Atwood",
+      "Jonathan Franzen",
+      "Tom Wolfe",
+      "Donna Tartt",
+      "David Foster Wallace"
+    ],
+    "Maya Angelou": [
+      "Toni Morrison",
+      "Alice Walker",
+      "Zora Neale Hurston",
+      "James Baldwin",
+      "Octavia E. Butler"
+    ],
+    "Rick Riordan": [
+      "J.K. Rowling",
+      "Cassandra Clare",
+      "Brandon Mull",
+      "James Dashner",
+      "Lemony Snicket"
+    ],
+    "Kazuo Koike": [
+      "Haruki Murakami",
+      "Yukio Mishima",
+      "Ryunosuke Akutagawa",
+      "Junichiro Tanizaki",
+      "Kenzaburo Oe"
+    ],
+    "Rose Tremain": [
+      "Ian McEwan",
+      "Kazuo Ishiguro",
+      "A. S. Byatt",
+      "Pat Barker",
+      "Colm Toibin"
+    ],
+    "Terry Pratchett": [
+      "Douglas Adams",
+      "Neil Gaiman",
+      "Jasper Fforde",
+      "Jim Butcher",
+      "Robert Rankin"
+    ],
+    "Malcolm Gladwell": [
+      "1. Daniel Kahneman",
+      "2. Steven Pinker",
+      "3. Yuval Noah Harari",
+      "4. Michael Lewis",
+      "5. Nassim Nicholas Taleb"
+    ],
+    "Bill Bryson": [
+      "David Sedaris ",
+      "Mary Roach ",
+      "Erik Larson ",
+      "Jon Krakauer ",
+      "Malcolm Gladwell"
+    ],
+    "Jo Nesbo": [
+      "Lee Child",
+      "Tana French",
+      "Stieg Larsson",
+      "Gillian Flynn",
+      "Harlan Coben"
+    ],
+    "Jeffrey Archer": [
+      "",
+      "Dan Brown,",
+      "John Grisham,",
+      "Ken Follett,",
+      "David Baldacci,",
+      "Lee Child"
+    ],
+    "Kenzaburo Oe": [
+      "Haruki Murakami",
+      "Yukio Mishima",
+      "Ryunosuke Akutagawa",
+      "Natsume Soseki",
+      "Kobo Abe"
+    ],
+    "Christina Baker Kline": [
+      "Tara Westover",
+      "Delia Owens",
+      "Kristin Hannah",
+      "Paula McLain",
+      "Lisa See"
+    ],
+    "Diane Mott Davidson": [
+      "Joanne Fluke",
+      "Nancy Pickard",
+      "Ellery Adams",
+      "Kate Carlisle",
+      "Maggie Barbieri"
+    ],
+    "Andrew Gross": [
+      "1. Harlan Coben",
+      "2. Lisa Jewell",
+      "3. Linwood Barclay",
+      "4. Patricia Cornwell",
+      "5. Tami Hoag"
+    ],
+    "Phillip Pullman": [
+      "J.K. Rowling",
+      "C.S. Lewis",
+      "Neil Gaiman",
+      "Terry Pratchett",
+      "Ursula K. Le Guin"
+    ],
+    "Robin Hobb": [
+      "George R. R. Martin",
+      "Brandon Sanderson",
+      "Patrick Rothfuss",
+      "Joe Abercrombie",
+      "N. K. Jemisin"
+    ],
+    "Colin Dexter": [
+      "Agatha Christie",
+      "Louise Penny",
+      "P.D. James",
+      "Ruth Rendell",
+      "Ann Cleeves"
+    ],
+    "Michael Koryta": [
+      "Tana French",
+      "Joshilyn Jackson",
+      "Paul Cleave",
+      "Joe R. Lansdale",
+      "Laura Lippman"
+    ],
+    "Joseph Finder": [
+      "Lee Child",
+      "Harlan Coben",
+      "David Baldacci",
+      "Robert Ludlum",
+      "Jeffery Deaver"
+    ],
+    "Bob Mayer": [
+      "Nelson DeMille",
+      "Stephen Coonts",
+      "David Baldacci",
+      "Vince Flynn",
+      "Brad Thor"
+    ],
+    "Sophie Kinsella": [
+      "Marian Keyes",
+      "Jojo Moyes",
+      "Jane Green",
+      "Lisa Jewell",
+      "Helen Fielding"
+    ],
+    "Sarah Waters": [
+      "Donna Tartt",
+      "Kate Morton",
+      "Tana French",
+      "Emma Donoghue",
+      "Jeanette Winterson"
+    ],
+    "Jenny Lawson": [
+      "Irvine Welsh",
+      "David Sedaris",
+      "Laurie Notaro",
+      "Augusten Burroughs",
+      "Sloane Crosley"
+    ],
+    "Fannie Flagg": [
+      "Maeve Binchy",
+      "Nora Ephron",
+      "Anne Tyler",
+      "Elin Hilderbrand",
+      "Liane Moriarty"
+    ],
+    "Edna Ferber": [
+      "Fannie Hurst",
+      "Pearl S. Buck",
+      "Katharine Brush",
+      "Zona Gale",
+      "Margaret Ayer Barnes"
+    ]
+  }
